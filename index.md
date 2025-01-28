@@ -1,11 +1,11 @@
-# Welcome to My Personal Website
+# Welcome to My Website
 
 ## Section 1: About Me
 
 ![My Photo](https://github.com/user-attachments/assets/3f6fa15b-42e5-40f0-b393-9d55e23c4195)
 
 
-Hello! My name is [Your Name]. I'm here in this class because I’m eager to learn more about digital content creation and how different media can be used in today's interconnected world. I'm particularly excited to explore the different ways that technology can help me be more creative and communicate my ideas more effectively.
+Hello! My name is Medha Majumdar. I'm here in this class because I’m eager to learn more about how media is evolved over the years and how the new media can be adjusted even futher for the digital place to truely become the best form of media and connect everyone in a global society.
 
 ## Section 2: Media I Frequently Use
 
