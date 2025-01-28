@@ -2,7 +2,8 @@
 
 ## Section 1: About Me
 
-![My Photo](https://www.example.com/photo.jpg) <!-- Replace with your image URL -->
+![mypicsmall](https://github.com/user-attachments/assets/3f6fa15b-42e5-40f0-b393-9d55e23c4195)
+
 
 Hello! My name is [Your Name]. I'm here in this class because I’m eager to learn more about digital content creation and how different media can be used in today's interconnected world. I'm particularly excited to explore the different ways that technology can help me be more creative and communicate my ideas more effectively.
 
